@@ -205,6 +205,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Josh Kupka](#josh-kupka) - **streaming:** JavaScript, Building custom streaming service
 - [Josh Wulf](#josh-wulf) - **streaming:** TypeScript, NestJS, Microservices, Zeebe, Minecraft programming in JS
 - [Julian Duque](#julian-duque) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
+- [Justin Rains](#justinrains) - **streaming** JS, php, wordpress, plugins
 
 [(top)](#table-of-contents)
 
